@@ -4,3 +4,5 @@ Let's have a code example.
 Given a string containing a simple parantheses, square parantheses and curly parantheses -- (), [], {} respectively.
 We will see if the string is valid or not.
 
+There are two approaches for this concept, but we will use stack approach. Imagine you are given some layers one by one and you are asked to stack them in an order.
+After all, stack is a data structure 
