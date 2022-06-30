@@ -28,6 +28,6 @@ Constraints:
 s[i] is '(', or ')'
 
 """
-For description of the code, please go to ValidParentheses.txt\
+For description of the concept, please go to ValidParentheses.txt\
 There could be various codes, so you are welcome to make a copy and post here. 
 
