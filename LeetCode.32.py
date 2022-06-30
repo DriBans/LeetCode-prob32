@@ -1,5 +1,6 @@
-# We do not have to use class as we have a standard operators in this case. However, LeetCode requires class function since they are not supported by OOP (Object-Oriented Programming).
-# I will write a separate code without using class later. Let's solve this problem for now. The first two lines of code below are given in leetcode so we can continue from there.
+# We do not have to use class as we have a standard operators in this case. However, LeetCode requires class function since they are not supported by 
+# OOP (Object-Oriented Programming). I will write a separate code without using class later. Let's solve this problem for now. 
+# The first two lines of code below are given in leetcode, so we can continue from there.
 
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
