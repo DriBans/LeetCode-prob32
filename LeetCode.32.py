@@ -27,6 +27,7 @@ class Solution:
                 a = max(a, i - stack[-1])
         return
 
+# Without using class function.
 
 from collections import deque
 def longestValid(s):
