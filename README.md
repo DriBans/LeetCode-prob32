@@ -28,6 +28,6 @@ Constraints:
 s[i] is '(', or ')'
 
 """
-For description of the concept, please go to ValidParentheses.txt\
+For description of the concept, please go to [ValidParentheses.md](https://github.com/DriBans/LeetCode-prob32/blob/main/ValidParentheses.md)\
 There could be various codes, so you are welcome to make a copy and post here. 
 
