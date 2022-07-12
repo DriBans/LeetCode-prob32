@@ -1,4 +1,4 @@
-Valid Parentheses is (1*) when every opening bracket must have a matching closing bracket of the same type and (2*) the brackets should be closed in a correct order.
+Valid Parentheses is "when every opening bracket must have a matching closing bracket of the same type" and (2*) the brackets should be closed in a correct order.
 
 Let's have a code example.
 Given a string containing a simple parantheses, square parantheses and curly parantheses -- (), [], {} respectively.
